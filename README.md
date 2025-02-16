@@ -6,7 +6,7 @@ My name is Armin Kuburas (He/Him). I'm a proud student of Hive Helsinki. A schoo
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,godot,py,bash,flutter,apple,windows,linux,vscode&perline=6)](https://skillicons.dev)
 
-[![Armins's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArminKuburas)](https://github.com/anuraghazra/github-readme-stats)
+[![Armins's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArminKuburas)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminKuburas&langs_count=8&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ArminKuburas/ArminKuburas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

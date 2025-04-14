@@ -19,7 +19,7 @@ My name is Armin Kuburas (He/Him). I'm a proud student of Hive Helsinki. A schoo
   </a>
   &emsp;&emsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArminKuburas&hide=html,TeX&show_icons=true&theme=tokyonight&count_private=true&langs_count=8&layout=compact" />
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArminKuburas&hide=html,TeX,jupyter%20notebook&show_icons=true&theme=tokyonight&count_private=true&langs_count=8&layout=compact" />
   </a>
 </div>    
 <br>
